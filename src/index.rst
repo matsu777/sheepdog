@@ -59,9 +59,13 @@ Packages
 You can also install Sheepdog with deb/rpm packages.
 Before installing Sheepdog packages, install dependent packages listed at Getting Started on Wiki.
 
++ v1.0.1
+  + `Ubuntu 16.04 <https://github.com/sheepdog/sheepdog/raw/gh-pages/data/package/v1.0.1/ubuntu16.04/sheepdog-stable_1.0-1_amd64.deb>`__
+  + `CentOS 7 <https://github.com/sheepdog/sheepdog/raw/gh-pages/data/package/v1.0.1/cenots7/sheepdog-1.0.0-1.el7.centos.x86_64.rpm>`__
+
 + v1.0.0
-  + `Ubuntu 16.04 <https://github.com/sheepdog/sheepdog/raw/gh-pages/data/package/deb/sheepdog-1.0.0-1.amd64.deb>`__
-  + `CentOS 7 <https://github.com/sheepdog/sheepdog/raw/gh-pages/data/package/rpm/sheepdog-1.0.0-1.el7.centos.x86_64.rpm>`__
+  + `Ubuntu 16.04 <https://github.com/sheepdog/sheepdog/raw/gh-pages/data/package/v1.0.0/ubuntu16.04/sheepdog-1.0.0-1.amd64.deb>`__
+  + `CentOS 7 <https://github.com/sheepdog/sheepdog/raw/gh-pages/data/package/v1.0.0/cenots7/sheepdog-1.0.0-1.el7.centos.x86_64.rpm>`__
 
 Mailing list and IRC
 --------------------
